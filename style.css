@@ -1,2 +1,4 @@
 h2{color: deepskyblue;}
 body{background: beige;}
+.btn { width: 100px; height: 50px;}
+.btn:active { transform: rotate(360deg); transition-duration: 1s; }
